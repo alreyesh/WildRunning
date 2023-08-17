@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">WildRunning</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="confirmPassword">Confirmar Contraseña</string>
+    <string name="forgotPassword">Olvidaste tu contraseña</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="resetPassword">Enviar Contraseña</string>
+    <string name="invitation">¿Hasta qué nivel eres capaz de llegar?</string>
+    <string name="acept">He leido y acepto los</string>
+    <string name="terms">términos y condiciones de uso.</string>
+    <string name="empty_email">Introduce un email porfa plis</string>
+    <string name="invalid_email">mm parece que el email está mal escrito</string>
+
+    <string name="google">GOOGLE</string>
+    <string name="facebook">FACEBOOK</string>
+
+    <string name="bar_title_terms">Terminos y Condiciones de Uso</string>
+    <string name="terms1">Legimus ornatus malorum luptatum nominavi legimus alia minim. Deterruisset faucibus senectus parturient mei dicat facilisis. Necessitatibus maiorum populo solum conclusionemque. Elementum appetere pertinacia saperet dicat ac natoque. Disputationi eros auctor arcu conceptam sadipscing. Taciti fabulas sagittis feugiat constituam class bibendum. Nostrum proin viris mediocritatem debet mentitum. Volumus iriure sed fabulas adhuc ea at. Donec viris eloquentiam lacinia omnesque porta volutpat efficiantur. Iisque conceptam efficitur class platea porro fugit expetendis. </string>
+    <string name="terms2">Mattis nisi vocibus habitasse singulis deserunt labores. Detracto invidunt ultrices dignissim pretium usu molestiae possim. Singulis invidunt pri qui populo molestiae turpis. Consetetur atomorum omnesque vim patrioque quidam mnesarchum luptatum. Ludus agam auctor vivendo tincidunt dolorem harum unum. Tibique molestiae quod urbanitas interesset referrentur vim repudiandae. Persequeris litora posidonium tation fames adversarium periculis maiestatis quisque. Vim posuere iudicabit tractatos felis fermentum lacus torquent pertinacia. Duo congue faucibus platea maximus corrumpit his. Sem imperdiet ac noluisse commodo petentium expetendis tellus tale orci. Elit cursus veritus cum periculis epicurei perpetua. Litora hac ponderum a magna fermentum. Vix vitae eloquentiam curabitur eget cum. Voluptatibus movet aperiri accommodare porta ius dolorum laoreet. Harum maiestatis consequat sed suspendisse oratio. Similique dicat propriae ei scelerisque. Tibique eum adipiscing ultrices appetere euismod errem. </string>
+    <string name="terms3">Referrentur dolores deseruisse cum platea. Fugit expetenda referrentur vivamus posuere eius tibique vestibulum legimus. Tristique sagittis maximus nascetur commune vituperata suas porttitor. Bibendum consectetur decore interesset inciderint egestas himenaeos quidam an. Mei delicata tantas suas tale. Solum periculis dui leo assueverit leo. Erroribus vehicula tellus aeque porta simul. Quam te iusto pertinacia alienum pertinax eu euismod saperet. Necessitatibus deterruisset dolorum cursus lorem dapibus. Nonumy lorem vel enim consectetur causae tibique theophrastus tellus usu. Persequeris vivendo dolorem natum suavitate blandit. Atqui himenaeos saepe consectetur viderer turpis. Tation dui conubia nibh perpetua. Magna posuere conubia iriure senectus definiebas mentitum est animal suspendisse. Convallis noluisse proin harum proin perpetua elit maiorum aenean. Elit lacinia ridiculus quot repudiare tation vis. Luptatum expetendis rutrum persecuti sanctus euripidis ocurreret te senserit dolore. Ignota expetendis graecis adversarium cum est ferri. Errem aliquid elitr blandit mandamus agam ad cras tristique sadipscing. Aeque falli sanctus ius auctor ocurreret iudicabit etiam lectus. Condimentum pretium dolorem viverra sodales nascetur diam ac. Recteque sonet veniam indoctum quis cu cu. Putent aenean quam adipiscing qualisque homero populo ornatus. Sea persius laudem metus intellegebat eam intellegebat eros. Minim nulla cras netus regione himenaeos doctus. Fuisset fugit facilisi maluisset adipisci fabulas disputationi nostrum dicit. Vocent aeque appetere pulvinar ultricies quaerendum consectetur vitae commune explicari. Partiendo nobis quot omnesque aliquip ocurreret elitr.</string>
+
+    <string name="bar_title">WildRunning</string>
+    <string name="menu_running">Running</string>
+    <string name="menu_record">Historial</string>
+    <string name="menu_becamepremium">Hazte Premium</string>
+    <string name="menu_clearpreferences">Reestablecer Ajustes</string>
+    <string name="menu_signout">Cerrar Sesión</string>
+    <string name="menu_offercourse">¿Quieres aprender a desarrollar apps? Entra aquí</string>
+    <string name="level">Nivel</string>
+    <string name="nav_hi">Quien mueve las piernas mueve el corazón.¡Muévete, corazón!</string>
+    <string name="user">blabla@wildrunning.com</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <string name="bar_title_record">Tomaquetomatá</string>
+
+</resources>
